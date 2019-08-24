@@ -1,0 +1,225 @@
+[{
+		"graph_path": "./images/19.png",
+		"graph_para": "Figure 19 shows the life expectancy at birth and percentage of the world’s population by region for the year 2015. For the same year, Australia had 20% of world population and had an average life expectancy at birth of 68 years.",
+		"questions": ["Compared to australia, which of these countries has relatively more world population and also higher average life expectancy at birth?", "Out of all the countries that has less percent of world population than Australia in 2015, which country has the least life expectancy at birth?", "Out of 7 countries, how many countries exceeds 75% of life expectancy?"],
+		"options": [
+			["Africa", "Asia", "Europe", "Northern America"],
+			["Africa", "Asia", "Europe", "Northern America"],
+			["3", "4", "5", "2"]
+		],
+		"answer": ["Asia", "Africa", "3"],
+		"rationale": ["Asia has 60% of world population and an average life expectancy of 73 years. Both these values are greater than Australia", "Africa, Latin America and the carribean, Oceania, Europe, Northern America has less percent of world population than Australia in 2015. Africa has the least life expectancy at birth","3 countries including Europe, Oceania and North America exceeds 75% of life expectancy"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},
+	{
+		"graph_path": "./images/20.png",
+		"graph_para": "Figure 20 shows the child mortality by income level of country. Child mortality refers to the children that die before reaching the age of 5. In 2018, these rates were 5%, 5%, 3%, 0.5% and 2% for Low income, Lower middle income, world, upper middle income and high income respectively.",
+		"questions": ["Which income level has no change in mortality rate for the year of 2018?", "Which income level people had increase in child mortality in 2018?"],
+		"options": [
+			["Low Income", "Lower Middle Income", "Upper Middle Income", "High Income"],
+			["Low Income", "Lower Middle Income", "Upper Middle Income", "High Income"]			
+		],
+		"answer": ["Lower Middle Income", "High Income"],
+		"rationale": ["Child mortality rate stays same 5% from 2015 for Lower Middle income level people", "Child mortality rate has increased from 0.5% to 2% in 2018 for High Income level people"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},
+	{
+		"graph_path": "./images/21.png",
+		"graph_para": "The above visualization shows health care expenditure across countries. There is a strong correlation between health care expenditure and national income. The countries which spend more on health care are more likely to have highest per capita income.",
+		"questions": ["From the above graph infer comparatively which country is most likely to have highest per capita income?", "How many countries are most likely to have better per capita income level than Iraq?", "Sorted in descending order by it’s per capita income, which country will stand third?"],
+		"options": [
+			["United States", "United Kingdom"., "India", "Iraq"],
+			["2", "3", "4", "1"],
+			["Iraq", "India", "South Sudan", "United States"]
+		],
+		"answer": ["United States", "2", "Iraq"],
+		"rationale": ["Percentage of GDP spent on health care expenditure and highest per capita income level of country are directly related. United states spends more on health care expenditure.", "Percentage of GDP spent on health care expenditure and highest per capita income level of country are directly related. United states and United Kingdom spends more on healthcare than Iraq.","Percentage of GDP spent on health care expenditure and highest per capita income level of country are directly related. Iraq stands third on the percentage of GDP spent on health care"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},
+	{
+		"graph_path": "./images/22.png",
+		"graph_para": "The above visualization shows the percentage distribution of GDP for health expenditures across countries. Tax revenue is an important statistical determinant towards universal health coverage and it is determined that developing countries with higher tax revenues tend to spend more on healthcare.",
+		"questions": ["As per the data, Which country is most likely to have the least tax revenue?", "Based on the relationship, which country stands third if sorted in ascending order by it’s tax revenue?", "How many countries are most likely to have better tax revenues in comparison with costa rica?"],
+		"options": [
+			["Iraq", "Indonesia", "Pakistan", "Maldives"],
+			["Iraq", "Maldives", "Pakistan", "United Kingdom"],
+			["4", "3", "5", "2"]
+		],
+		"answer": ["Pakistan", "Iraq", "3"],
+		"rationale": ["Higher the tax revenue, higher the health expenditure. Pakistan spends the least on health expenditure", "Tax revenue and health expenditure are directly related. First three Countries sorted in ascending order of health expenditure are Pakistan, Indonesia and Iraq.", "Tax revenue and health expenditure are directly related. 3 countries including Maldives, United states and United Kingdom spends more on health than costa rica."],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},
+	{
+		"graph_path": "./images/22.png",
+		"graph_para": "No matter whether it is a rich country in Europe or a much poorer country in Africa, the proportional decline in child mortality associated with a proportional increase in health expenditure is remarkably similar.",
+		"questions": ["Which country is expected to have the least child mortality rate?", "Based on the association, which country is likely to have the second highest child mortality rate?", "Based on the association, how many countries is expected to have lesser mortality rate than Maldives?"],
+		"options": [
+			["Maldives", "United States", "United Kingdom", "Pakistan"],
+			["Costa Rica", "Indonesia", "Pakistan", "United States"],
+			["2", "1", "3", "5"]
+		],
+		"answer": ["United States", "Indonesia", "2"],
+		"rationale": ["Child mortality and health expenditure are indirectly related. United states spends more on health expenditure", "Child mortality and health expenditures are indirectly related. Sorted in ascending order of health expenditure, Pakistan followed by Indonesia spends the least on health care.", "Child mortality rate and health expenditure are indirectly related. Two countries including United states and United kingdom spent more on health care than maldives"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/23.png",
+		"graph_para": "Above visualization shows the current poverty rate distribution across countries. Over the years, the rate of people living in absolute poverty has been declining. For the past few years, it is steadily declining at a rate of 3% every year. Given the population of United states, United Kingdom, Indonesia, Iraq and pakistan are 320 million, 66 million, 264 million, 38 million and 197 million respectively for the current year.",
+		"questions": ["What is the expected population of people below poverty line in United States next year?", "If this decline is steady for upcoming years, how long it will take for United Kingdom to reduce it’s people below poverty range percentage to 3%?", "Based on the data, which country quantitatively has the least population of people below poverty line?"],
+		"options": [
+			["38.4 million", "45 million", "30 million", "4 million"],
+			["3 years", "4 years", "5 years", "1 year"],
+			["Pakistan", "United States", "United Kingdom", "Iraq"]
+		],
+		"answer": ["38.4 million", "4 years", "Iraq"],
+		"rationale": ["Currently the population of people below poverty level is 15% in United states. It will decrease to (15-3)= 12% next year. Population of United states is 320 million and 12% of 320 million is 38.4 million", "Currently the population below poverty line is 15% in United Kingdom. To reach 3%, it has to decrease by 12%. It steadily decreases by 3% every year. So, 12/3= 4 years", "23% of 38 million = 8.74 million people in Iraq is the least population of people below poverty line"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/23.png",
+		"graph_para": "Above visualization shows the percentage of people below poverty line across countries. It is inferred that there is a clear negative relationship between life expectancy and poverty rate. That is, people tend to live longer in countries where poverty is less common. ",
+		"questions": ["From the inferred correlation, which country people among the given is expected to have the least life expectancy?", "Which two countries has almost same life expectancy?", "Which country comparatively has better life expectancy than United states ?"],
+		"options": [
+			["United Kingdom", "Indonesia", "Iraq", "Pakistan"],
+			["United Kingdom and United States", "Pakistan and Iraq", "Iraq and Indonesia", "Indonesia and Pakistan"],
+			["United Kingdom", "Indonesia", "Iraq", "Pakistan"]
+		],
+		"answer": ["Pakistan", "United Kingdom and United States", "Indonesia"],
+		"rationale": ["As the percentage of people below poverty line reduces, the life expectancy increases. Pakistan has the highest percentage of population below poverty line.", "As the percentage of people below poverty line reduces, the life expectancy increases. United Kingdom and United States has almost same percentage of people below poverty line.", "As the percentage of people below poverty line reduces, the life expectancy increases. Indonesia has lesser percentage of people below poverty line than United states"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/24.png",
+		"graph_para": "The visualization above shows the children born per average woman present day in countries across the world. The made inference states that the global fertility rate has halved in the last 50 years.",
+		"questions": ["What would have been the nearest value of fertility rate of women in India by 1969?", "From given values, How many countries would have had above 4 children/woman as fertility rate back in 1969?", "If this continues at the same percentage, what would be the fertility rate of women in canada by 2069?"],
+		"options": [
+			["1 child born/woman", "5 children/woman", "6 children/woman", "3 children/woman"],
+			["3", "4", "2", "1"],
+			["1.5 children/woman", "0.8 children/woman", "1.2 children/woman", "1.6 children/woman"]
+		],
+		"answer": ["5 children/woman", "3", "0.8 children/woman"],
+		"rationale": ["The global fertility has halved in last 50 years. 2019-50=1969. Current value of fertility rate of women in India is 2.4, so by 1969 it would be 2.4*2=4.8 children/woman. Rounding off to nearest value - 5 children/woman ", "The global fertility has halved in last 50 years. 2019-50=1969. India, Mexico and Nepal would have had above 4 children/woman back in 1969", "Fertility has halved in last 50 years. Current fertility rate of woman in canada is 1.6 children/woman. By 2069, after 50 years, it will decrease further to 0.8 children/woman."],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/24.png",
+		"graph_para": "The above visualization shows the current fertility rate of women in countries across the world. Much of the theoretical work in recent decades on how families decide how many children they want rests on the models of the economist Gary Becker. In the framework of Becker, he had argued that improving the education of women leads women to want fewer children. It is observed that fertility rate in 2014 was 2.1, 3.5, 2.8, 2.2 and 2.3 children born/woman for Canada, India, United States, Mexico and Nepal respectively.",
+		"questions": ["From becker’s argument, which country is likely to have made good improvement in women’s education for the past 5 years?", "Applying becker’s theory, which country hasn’t made any improvement in women’s education?", "How many countries have done well in improving women’s education in comparison to Nepal?"],
+		"options": [
+			["India", "Nepal", "Mexico", "United States"],
+			["India", "Nepal", "Mexico", "United States"],
+			["3", "4", "1", "2"]
+		],
+		"answer": ["India", "Mexico", "3"],
+		"rationale": ["Fertility rate of India has reduced 0.9 children/woman which is the maximum decrease in fertility rate. As fertility rate reduces, women's education increases.", "As fertility rate reduces, women's education increases. Fertility rate of women in mexico has stayed the same from 2014.", "As fertility rate reduces, women's education increases. Nepal has 0.25 children/woman reduce in fertility rate. Three countries including Canada, India and United States has better reduce in fertility rate than Nepal."],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/26.png",
+		"graph_para": "The scientific understanding and technological progress makes some very efficient public health interventions such as vaccinations, hygiene measures and health measures which in turn increases the life expectancy of people. The above figure shows the current day life expectancy of people in countries around the world. Five years before, the life expectancy at birth was 80, 75, 65, 75, 65, 75 years for Canada, Maldives, India, United States, South Africa and United Kingdom respectively.",
+		"questions": ["Based on these facts, which country's scientific progress remains the same from 2014?", "Which country has made a very good scientific progress in last 5 years?", "How many countries have made better progress in science compared to Maldives?"],
+		"options": [
+			["Canada", "Maldives", "South Africa", "United Kingdom"],
+			["United States", "United Kingdom", "India", "Canada"],
+			["3", "4", "5", "2"]
+		],
+		"answer": ["South Africa", "United Kingdom", "4"],
+		"rationale": ["Improvement in science increases the life expectancy of people. Life expectancy of people in South Africa has reduced from 2014 in south Africa.", "Improvement in science increases the life expectancy of people. Life expectancy of United Kingdom has increased by 11 years which is the maximum compared to others.", "Improvement in science increases the life expectancy of people. Canada, India, United states and united kingdom has made better progress in science compared to Maldives."],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/26.png",
+		"graph_para": "The above figure shows the life expectancy at birth of people in countries across the world today. Australia and Mexico has life expectancy at birth of 86 years and 77 years respectively.",
+		"questions": ["Which country has the people with highest life expectancy at birth?", "How many countries have people with better life expectancy at birth compared to Mexico?", "Which two countries of the given options has almost same life expectancy at birth?"],
+		"options": [
+			["Canada", "Australia", "United Kingdom", "Maldives"],
+			["2", "3", "4", "5"],
+			["Australia and Canada","Mexico and Maldives","India and South Africa","Maldives and India"]
+		],
+		"answer": ["Australia", "4", "Mexico and Maldives"],
+		"rationale": ["Australia has 86 years of life expectancy at birth.", "Four countries including Australia, Canada, United States and United Kingdom has better life expectancy at birth compared to Mexico.", "Mexico and Maldives have life expectancy of 77 and 76 years"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/25.png",
+		"graph_para": "A recent study by Rosalind Arden et al (2015)9 analyzed the link between intelligence and longer lifespan. They found a positive correlation between them as higher intelligence causing more healthy behavior choices, and shared genetic factors influencing both intelligence and health.",
+		"questions": ["From the given data, Which country people are likely to be more intellectual?", "How many countries has prominent intellectuals than United States?", "How many countries have least intellectuals compared to India ?"],
+		"options": [
+			["Australia", "India", "Denmark", "United States"],
+			["1", "2", "3", "4"],
+			["1", "2", "3", "4"]
+		],
+		"answer": ["Australia", "3", "1"],
+		"rationale": ["As the intelligence level increases, the life expectancy increases. The life expectancy of Australia is the highest with 86 years.", "As the intelligence level increases, the life expectancy increases. Australia, Sweden and Denmark has better life expectancy than United States.", "As the intelligence level increases, the life expectancy increases. South Africa has lesser life expectancy than India"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/27.png",
+		"graph_para": "The visualization above shows the percentage of GDP spent on education purpose in countries across the world. There is a positive correlation between the PISA reading outcomes and the expenditure on education.",
+		"questions": ["Which country students are most likely to score best in PISA reading?", "Compared to Australia, how many countries are not likely to score better in PISA reading?", "Which country’s students are likely to score in PISA reading better than United States but lesser than Kenya?"],
+		"options": [
+			["Kenya", "India", "Sweden", "Australia"],
+			["2", "3", "1", "4"],
+			["India", "Australia", "Sweden", "Denmark"]
+		],
+		"answer": ["Sweden", "2", "Australia"],
+		"rationale": ["High amount of money spent on education, higher the outcome of PISA reading. Sweden spends the most on education. ","High amount of money spent on education, higher the outcome of PISA reading. United States and India spends less on education in comparison to Australia.","High amount of money spent on education, higher the outcome of PISA reading. Australia spends on education more than United States but less than Kenya." ],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/28.png",
+		"graph_para": "The figure above shows the percentage of GDP for taxes and revenues in countries across the world. The countries that achieve the largest redistribution through taxes and transfers tend to be those with the lowest after-tax inequality.",
+		"questions": ["Based on the data, which country has the lowest after-tax inequality?", "How many countries achieve good after tax equality in comparison with United States?", "Which country has the highest after after-tax inequality?"],
+		"options": [
+			["Sri Lanka", "Pakistan", "New Zealand", "European Union"],
+			["2", "3", "4", "1"],
+			["European Union", "India", "Pakistan", "New Zealand"]
+		],
+		"answer": ["European Union", "2", "India"],
+		"rationale": ["As taxes and revenues levels increases, the after-tax inequality decreases. European Union has the highest taxes and revenues percentage of GDP.","As taxes and revenues levels increases, the after-tax inequality decreases. New Zealand European Union has higher taxes and revenues percentage of GDP in comparison with United States.","As taxes and revenues levels increases, the after-tax inequality decreases. India has the least taxes and revenues percentage of GDP."],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/29.png",
+		"graph_para": "The figure above shows the percentage of GDP for taxes and revenues in countries across the world. Rise in GDP has a positive correlation with the increase in tax. That is rich countries tend to collect much higher tax revenues than poor countries",
+		"questions": ["Based on the stated correlation, which country is the richest?", "Which country has immediately has better GDP per capita compared to Pakistan?", "How many countries are richer than United states based on the given data?"],
+		"options": [
+			["United Kingdom, "United States", "India", "European Union"],
+			["European Union", "India", "Sri Lanka", "United States"],
+			["2", "3", "4", "1"]
+		],
+		"answer": ["European Union", "United States", "3"],
+		"rationale": ["As the taxes and revenues percentage increases, the GDP of the country increases. European Union has the highest taxes and revenue percentage.","As the taxes and revenues percentage increases, the GDP of the country increases. United States immediately supersedes Pakistan with higher taxes and revenue percentage.","As the taxes and revenues percentage increases, the GDP of the country increases. New Zealand, United Kingdom and European Union has higher taxes and revenue percentage than United States."],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/29.png",
+		"graph_para": "The figure above shows the percentage of GDP for taxes and revenues in countries across the world. There is a correlation between tax revenues and political institutions conditional on GDP levels. The countries with strong executive constraints collect higher tax revenues than do countries with weak executive constraints.",
+		"questions": ["Based on the stated correlation, which country has the strong political institutions?", "Which country has relatively strongly political institutions than pakistan but weaker than New Zealand?", "How many countries have stronger political institutions than United states based on the given data?"],
+		"options": [
+			["United Kingdom, "United States", "India", "European Union"],
+			["European Union", "India", "Sri Lanka", "United States"],
+			["2", "3", "4", "1"]
+		],
+		"answer": ["European Union", "United States", "3"],
+		"rationale": ["Stronger the political institutions, higher the taxes and revenues collected. European Union has the highest taxes and revenues percentage.","Stronger the political institutions, higher the taxes and revenues collected. United States has taxes and revenues percentage higher than Pakistan but lesser than New Zealand.","Stronger the political institutions, higher the taxes and revenues collected. European Union, United Kingdom and New Zealand has higher taxes and revenues percentage than United States."],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	},{
+		"graph_path": "./images/30.png",
+		"graph_para": "The figure shows percentage rate of urbanization in countries around the world. Rural-urban migration has been empirically linked with the structural transformation process: as urban population shares increase, employment tends to shift from agriculture towards industry/manufacturing, or services",
+		"questions": ["Which country is shifting fast away from agriculture?", "How many countries have greater shift from agriculture towards industry in comparison with India ?", "Which country falls fourth in the rate of shift from agriculture to industry?"],
+		"options": [
+			["Pakistan, "New Zealand", "India","Sri Lanka"],
+			["1", "2", "3", "4"],
+			["Pakistan, "New Zealand", "India","Sri Lanka"]
+		],
+		"answer": ["Pakistan", "1", "New Zealand"],
+		"rationale": ["As the urbanization rate increases, people shifting from Agriculture towards Industry increases. Pakistan has the highest urbanization rate", "As the urbanization rate increases, people shifting from Agriculture towards Industry increases. Pakistan has higher percentage change in urbanization than India.", "As the urbanization rate increases, people shifting from Agriculture towards Industry increases. Sorted by ascending order of urbanization, the first four countries are Sri Lanka, United Kingdom, United States and New Zealand."],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "Karthiga"
+	}

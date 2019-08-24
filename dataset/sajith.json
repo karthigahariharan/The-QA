@@ -1,0 +1,234 @@
+[{
+		"graph_path": "./images/1.png",
+		"graph_para": "Figure shows the industrial production growth rate for various countries in the year of 2017. Industrial production figures are used by central banks to measure inflation, as high levels of in- dustrial production can lead to uncontrolled lev- els of consumption and rapid inflation. In 2017, the industrial production growth rate of India was similar to that of Pakistan.",
+		"questions": ["Which of these countries is most likely to have a rapid inflation when compared to Pakistan?", "The industrial production growth rate of Pakistan is almost equal to", "Consider all the given 6 countries. The industrial production growth rate of Sri Lanka is less than how many countries"],
+		"options": [
+			["India", "Vietnam", "Sri Lanka", "Indonesia"],
+			["7.5", "6.5", "5.5", "4.5"],
+			["1", "2", "3", "4"]
+		],
+		"answer": ["Vietnam", "5.5", "4"],
+		"rationale": ["High industrial production growth rate leads to rapid inflation. The industrial production growth rate of Vietnam was much higher than India which is similar to that of Pakistan", "The industrial production growth rate of Pakistan is equal to that of India which is 5.5", "The industrial production growth rate of Sri Lanka is less than China, India, Vietnam and Pakistan"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "sajith"
+	},
+	{
+		"graph_path": "./images/2.png",
+		"graph_para": "The agricultural produce of various countries is depicted in Figure 2. Y indicates Yes, N indicates No.",
+		"questions": ["Which country is most likely to import Fish?", "Tea, Potatoes and Coffee thrive well in tropical climate. Which country produces coffee?", "Countries which produce fish have a coastline. Which country is landlocked?"],
+		"options": [
+			["Canada", "Argentina", "Germany", "India"],
+			["Canada", "Argentina", "Germany", "India"],
+			["Canada", "Argentina", "Germany", "India"]
+		],
+		"answer": ["Germany", "India", "Germany"],
+		"rationale": ["Germany does not produce fish", "India is the only country that produces both Tea and Potatoes and thus is highly likely to have tropical climate, thus producing coffee.", "German does not produce fish"],
+		"difficulty": ["moderate", "hard", "easy"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/3.png",
+		"graph_para": "The Facebook service can be accessed from devices with Internet connectivity, such as personal computers, tablets and smartphones. After registering, users can create a customized profile revealing information about themselves. Users can post text, photos and multimedia of their own devising and share it with other users as ‘friends’. Users can use various embedded apps, and receive notifications of their friends' activities. Users may join common-interest groups. The figure shows the Population pyramid of Facebook users by age as of January 1, 2010. The blue bar indicates the male users while the pink bar indicates female users.",
+		"questions": ["In how many age groups is the number of male users greater than number of female users?", "The number of male users in the age-group 18-25 is greater than the number of female users in how many age groups?"],
+		"options": [
+			["0", "1", "2", "3"],
+			["2", "3", "4", "5"]
+		],
+		"answer": ["0", "5"],
+		"rationale": ["Female users exceed male users in all age groups.", "The number of male users in the age-group 18-25 is greater than the number of female users in all age groups except 18-25."],
+		"difficulty": ["easy", "easy"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/4.png",
+		"graph_para": "The Holdridge life zones system is a global bioclimatic scheme for the classification of land areas. Although conceived as three-dimensional by its originator, it is usually shown as a two-dimensional array of hexagons in a triangular frame. The three axes of the subdivisions are: - annual precipitation (shown in blue), biotemperature (shown in green) and potential evapotranspiration ratio (shown in red). Further indicators incorporated into the system are - humidity provinces, latitudinal regions and altitudinal belts.",
+		"questions": ["A land area with a biotemperature of 15C, a 3.5 potential evapotranspiration ratio and 300 mm of annual precipitation will fall in which category?", "Which of the following combinations does not fall under desert category?", "Which of the following combinations does not exist?"],
+		"options": [
+			["Desert", "Woodland", "Tundra", "Rain forest"],
+			["Polar latitudinal region with annual precipitation of 400mm", "Subalpine altitudinal belt with a potential evapotranspiration ratio of 3", "Tropical latitudinal region with annual precipitation of 100mm", "Alpine altitudinal belt with a potential evapotranspiration ratio of 1.5"],
+			["Sub-humid humidity province in Alpine altitudinal belt", "An arid humidity province with a biotemperature of 2C", "A super-humid humidity province in subpolar latitudinal region", "A subtropical latitudinal region with a biotemperature of 20"]
+		],
+		"answer": ["Woodland", "Alpine altitudinal belt with a potential evapotranspiration ratio of 1.5", "An arid humidity province with a biotemperature of 2C"],
+		"rationale": ["The three options point to Woodland region", "Alpine altitudinal belt with a potential evapotranspiration ratio of 1.5 falls under tundra", "An arid humidity has a biotemperature of at least 2C"],
+		"difficulty": ["hard", "hard", "hard"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/5.png",
+		"graph_para": "Households where no-one aged 16 years or over is in employment is called a workless household. These members may be unemployed or economically inactive. Economically inactive members may be unavailable to work because of family commitments, retirement or study, or unable to work through sickness or disability. The figure below shows the top 5 areas in the UK with the highest % of workless households for the years 2004 to 2012.",
+		"questions": ["For how many years was Kingston upon Hull among the top 5 areas in the UK with the highest % of workless households?", "Which of the following countries was never ranked second for the highest % of workless households?", "Which country’s rank for the highest % of workless households did not decrease from 2008 to 2009?"],
+		"options": [
+			["3", "4", "5", "6"],
+			["Liverpool", "Birmingham", "Kingston upon Hull", "Glasgow City"],
+			["Kingston upon Hull", "Wolverhampton", "Glasgow City", "Liverpool"]
+		],
+		"answer": ["5", "Birmingham", "Liverpool"],
+		"rationale": ["2005, 2006, 2007, 2008, 2012", "All other countries were ranked second", "The rank of all other countries decreased from 2008 to 2009"],
+		"difficulty": ["moderate", "moderate", "moderate"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/6.png",
+		"graph_para": "The figure below shows the healthcare spending per person in UK for the year 2012. Percentage values show the growth rate compared to previous year. Healthcare spending per capita has increased every year since 1997 but growth rates have slowed considerably since the economic downturn.",
+		"questions": ["Which year did the economic downturn happen?", "The growth rate of per-capita healthcare spending for which two years are equal?"],
+		"options": [
+			["2003", "2005", "2007", "2009"],
+			["1998 and 2007", "2000 and 2009", "2002 and 2003", "2005 and 2006"]
+		],
+		"answer": ["2009", "2000 and 2009"],
+		"rationale": ["growth rate reduced to 0.2% from 2009 to 2010", "growth rate was 6.6% in 2000 and 2009"],
+		"difficulty": ["moderate", "easy"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/7.png",
+		"graph_para": "Figure above shows the healthcare spending as a percentage of GDP for all G7 countries. Although healthcare spending as a share of GDP has increased in the UK over the past 50 years, the UK still currently spends less as a share of GDP than nearly all of the other G7 countries.",
+		"questions": ["Which of the following countries is not a G7 country", "Healthcare spending as a share of GDP for UK is less than all other G7 countries except"],
+		"options": [
+			["Canada", "China", "Japan", "USA"],
+			["Japan", "France", "Italy", "Germany"]
+		],
+		"answer": ["China", "Italy"],
+		"rationale": ["China is not listed in the image", "Healthcare spending as a share of GDP is same for UK and Italy"],
+		"difficulty": ["moderate", "easy"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/8.png",
+		"graph_para": "The figure above shows the comparision of household healthcare consumption with the consumption of other goods and services. The consumption in 1997 is given a base value of 100. The vertical dotted-pink line indicates the 2008 economic downturn. The years before this line indicate pre-recession and the years after the line indicate post-recession.",
+		"questions": ["Which household consumption was unaffected by the economic downturn?", "From 2006 to 2010 which two household consumption were almost equal?", "In which year did Recreation & Culture double its consumption when compared to 1997?"],
+		"options": [
+			["Food & Drink", "Health", "Communication", "Clothing & Footwear"],
+			["Clothing & Footwear and Health", "Communication and Recreation & Culture", "Health and Food & Drink", "Food & Drink and Communication"],
+			["1999", "2001", "2003", "2005"]
+		],
+		"answer": ["Clothing & Footwear", "Communication and Recreation & Culture", "2005"],
+		"rationale": ["The consumption of Clothing & Footwear continued to increase after the pink dotted vertical ine", "The consumption of both Communication and Recreation & Culture were similar from 2006 to 2010", "The household consumption of Recreation & Culture reached 200 in the year 2005"],
+		"difficulty": ["easy", "easy", "moderate"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/9.png",
+		"graph_para": "The graph above shows how age and gender affects ‘good’ health among the disabled. The way people judge their health is strongly influenced by their age. The likelihood of reporting ‘good’ health despite a disability decreases with age. Nancy, Steve, George, Stacy are all disabled and are 37, 41, 19 and 21 years old respectively.",
+		"questions": ["Who has the highest likelihood of reporting ‘good’ health despite being disabled?", "Who has the lowest likelihood of reporting ‘good’ health despite being disabled?", "How many age groups lie between Nancy and Stacy?"],
+		"options": [
+			["Nancy", "Steve", "George", "Miriam"],
+			["Nancy", "Steve", "George", "Miriam"],
+			["0", "1", "2", "3"]
+		],
+		"answer": ["George", "Nancy", "1"],
+		"rationale": ["The age-group 16-24 has a higher likelihood of reporting 'good' health despite being disabled. In this age group men have a higher likelihood than women", "The age-group 35-49 has a lower likelihood of reporting 'good' health despite being disabled. In this age group women have a lower likelihood than men", "The age-group 25-34 lies between age-groups 16-24 and 35-49"],
+		"difficulty": ["easy", "easy", "easy"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/10.png",
+		"graph_para": "Human capital enables people to work and produce something of economic value. The total human capital level of the UK affects the growth of the economy. The sum of the total potential future earnings of everyone in employment is equal to the total employed human capital of the UK. The figure below shows the total employed human capital of the UK for the years 2004 to 2013.",
+		"questions": ["In which year was the human capital of the UK at its peak?", "The value of human capital of the UK remained broadly flat for which of the following time-period?", "For how many years was the human capital of the UK less than the value in 2009?"],
+		"options": [
+			["2006", "2008", "2010", "2012"],
+			["2004 - 2006", "2011 - 2013", "2009 - 2011", "2006 - 2008"],
+			["4", "5", "6", "7"]
+		],
+		"answer": ["2008", "2011 - 2013", "7"],
+		"rationale": ["Peak of the graph happens in 2008", "The value of human capital of the UK didn't change much from 2011 - 2013", "2004, 2005, 2006, 2010, 2011, 2012, 2013"],
+		"difficulty": ["easy", "easy", "easy"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/11.png",
+		"graph_para": "The above figure shows the percentage rates of disability by socio-economic occupations in England and Wales. In the 2011 census, respondents were asked whether their day-to-day activities were ‘Not Limited’, ‘Limited a Lot’ or ‘Limited a Little’. Those assessing themselves as limited can be classified as having a disability. The National Statistics Socio-Economic Classification classifies occupations into seven classes. Higher managerial positions (doctors, lawyers, architects) belong to Class 1. Lower managerial positions (nurses, teachers, journalists) belong to Class 2. Intermediate positions (paramedics, bank staff) belong to Class 3. Small employers (farmers, shopkeepers and driving instructors) belong to Class 4. Lower supervisory positions (plumbers, chefs, electricians) belong to Class 5. Semi-routine positions (receptionists, telephone salesperson) belong to Class 6. Routine positions (labourers, bar staff, lorry drivers) belong to Class 7.",
+		"questions": ["The percentage of disabled women in Lower managerial positions is greater than the percentage of disabled men in Higher managerial positions by how much?", "The percentage of disabled men in a particular occupation lies between 20 to 25%. Which of the following is most likely to be that occupation?", "The percentage of disabled men in a particular occupation is greater than the percentage of disabled women. Which of the following is most likely to be that occupation?"],
+		"options": [
+			["2.7", "3.4", "1.7", "5.1"],
+			["Nurse", "Bar Staff", "Bank Staff", "Receptionist"],
+			["Receptionist", "Nurse", "Doctor", "Farmer"]
+		],
+		"answer": ["5.1", "Bank Staff", "Receptionist"],
+		"rationale": ["18.4 - 13.3 = 5.1", "Bank Staff belongs to Class 3 with 20.7% of being disabled", "Receptionist belons to Class 6 where the percentage of men is greater than women"],
+		"difficulty": ["moderate", "hard", "hard"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/12.png",
+		"graph_para": "Ipod is a series of portable media players manufactured by Apple since 2001 . The standard model has a two-inch LCD screen and initially came with a storage capacity of 5 gigabytes . Later, it has been extended to 10, 15, 20, 30, 40, 60, 80, 120 and 160 gigabytes. All models originally use hard drives but the Ipod Shuffle , Ipod Touch and Ipod Nano instead have a built-in flash memory . The figure above shows the timeline of various iPod models manufactured by Apple. The solid vertical lines indicate the start of a year. The muted grey vertical lines indicate months.",
+		"questions": ["In August 2004, which of the following iPod model was already manufactured?", "The iPod nano is not available in which storage size?", "Which iPod flavor is only available in 512 MB storage size?"],
+		"options": [
+			["iPod shuffle", "iPod nano", "iPod photo", "iPod mini"],
+			["1 GB", "2 GB", "3 GB", "4 GB"],
+			["iPod shuffle", "iPod nano", "iPod photo", "iPod mini"]
+		],
+		"answer": ["iPod mini", "3 GB", "iPod shuffle"],
+		"rationale": ["Rest of the models were manufactured on or after November 2004", "1 GB, 2 GB and 4 GB storage sizes are manufactured", "Rest of the models are not available in 512 MB storage size"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/13.png",
+		"graph_para": "Using the Eisenhower Decision Principle, tasks are evaluated using the criteria important/unimportant and urgent/not urgent, and then placed in according quadrants in an Eisenhower Matrix. Tasks in Important/Urgent quadrant are done immediately and personally e.g. crises, deadlines, problems. Tasks in Important/Not Urgent quadrant get an end date and are done personally e.g. relationships, planning, recreation. Tasks in Unimportant/Urgent quadrant are delegated e.g. interruptions, meetings, activities. Tasks in Unimportant/Not Urgent quadrant are dropped e.g. time wasters, pleasant activities, trivia.",
+		"questions": ["According to Eisenhower Decision Principle, which of the following task should be dropped?", " According to Eisenhower Decision Principle, which of the following task should be delegated?", "According to Eisenhower Decision Principle, which of the following task has an end date?", "According to Eisenhower Decision Principle, which of the following task should be done immediately?"],
+		"options": [
+			["Crying baby", "Exercise", "Distractions", "Trivia"],
+			["Crying baby", "Exercise", "Distractions", "Trivia"],
+			["Crying baby", "Exercise", "Distractions", "Trivia"],
+			["Crying baby", "Exercise", "Distractions", "Trivia"]
+		],
+		"answer": ["Trivia", "Distractions", "Exercise", "Crying baby"],
+		"rationale": ["Trivia belongs to the Unimportant/Not Urgent quadrant", "Distractions belongs to the Unimportant/Urgent quadrant", "Exercise belongs to the Important/Not Urgent quadrant", "Crying baby belongs to the Important/Urgent quadrant"],
+		"difficulty": ["moderate", "moderate", "moderate", "moderate"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/14.png",
+		"graph_para": "The above figure shows the notes of the musical alphabet as a cyclic chromatic scale. The chromatic scale is usually notated with sharp(#) signs when ascending and flat(b) signs when descending. The interval between two adjacent notes is called a half tone. An interval of two semitones is called a whole tone. The sequence of intervals between the notes of a major scale is: whole, whole, half, whole, whole, whole, half. The intervals between the notes of a minor scale follow the sequence below: whole, half, whole, whole, half, whole, whole.",
+		"questions": ["Which pair of notes are separated by a half tone interval?", "Which pair of notes are not separated by a whole tone interval?", "Which note will not generate any notes with sharp or flat signs if the intervals of the major scale are followed?", "Which note will not generate any notes with sharp or flat signs if the intervals of the minor scale are followed?"],
+		"options": [
+			["D, E", "E, F", "F, G", "G, A"],
+			["A, B", "B, C", "C, D", "D, E"],
+			["Bb", "F", "C", "G"],
+			["A", "D", "G", "C"]
+		],
+		"answer": ["E, F", "B, C", "C", "A"],
+		"rationale": ["E, F are separated by a half tone interval", "B, C are separated by a half tone interval", "Starting with C the notes of the major scale will be C, D, E, F, G, A, B, C ...", "Starting with A the notes of the minor scale will be A, B, C, D, E, F, G, A ..."],
+		"difficulty": ["easy", "easy", "hard", "hard"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/15.png",
+		"graph_para": "Below is a chart showing all of the notes on a guitar fretboard. The notes repeat after the 12th fret (e.g. the note at the 13th fret of the 1st string is an F). The notes of the sixth string and the first string are the same. Blues guitar generally follow a I-IV-V progression. For example, A-D-E, C-F-G, D-G-A are I-IV-V progressions.",
+		"questions": ["How many times does a note repeat within Fret Numbers 1-12 in all the 6 strings?", "Which notes do not follow one of the example I-IV-V progressions?"],
+		"options": [
+			["4", "5", "6", "7"],
+			["6 string - 5 fret, 5 string - 5 fret, 5 string - 7 fret", "5 string - 3 fret, 6 string - 1 fret, 6 string - 3 fret", "6 string - 10 fret, 5 string - 10 fret, 5 string - 12 fret", "5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret"]
+		],
+		"answer": ["6", "5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret"],
+		"rationale": ["Once for each string", "5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret forms D-C-G which is not a I-IV-V progression"],
+		"difficulty": ["easy", "hard"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/16.png",
+		"graph_para": "This above figure shows the periodic table with the location of the chemical elements. They are sorted by atomic number. The noble gases make up a group of chemical elements with similar properties; under standard conditions, they are all odorless, colorless, monatomic gases with very low chemical reactivity. The elements in the alkali metals group have their outermost electron in an s-orbital: this shared electron configuration results in their having very similar characteristic properties. The alkaline earth metals form group II of the periodic table. The elements are all shiny, silvery-white, somewhat reactive metals at standard temperature and pressure.",
+		"questions": ["Which of the following elements has low chemical reactivity?", "Which of the following elements has their outermost electron in the s-orbital?", "Which of the following is both a transition metal and has no isotope older than the earth?"],
+		"options": [
+			["H", "He", "Li", "Be"],
+			["K", "Ca", "Br", "Kr"],
+			["Ca", "Fe", "Tc", "Os"]
+		],
+		"answer": ["He", "5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret"],
+		"rationale": ["He belongs to the Noble gases group", "K belongs to the Alkali metals group", "Tc has a dashed border and belongs to the Transition metals group"],
+		"difficulty": ["hard", "hard", "moderate"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/17.png",
+		"graph_para": "The genetic code is the set of rules used by living cells to translate information encoded within genetic material into proteins. The code defines how sequences of nucleotide triplets, called codons, specify which amino acid will be added next during protein synthesis. With some exceptions, a three-nucleotide codon in a nucleic acid sequence specifies a single amino acid. The figure below shows which sequence of triplets generate a particular amino acid. The innermost circle corresponds to the first nucleotide in the triplet while the outermost circle corresponds to the last nucleotide in the triplet. Thus GAG will synthesize Glu (E).",
+		"questions": ["Which of the following nucleotide triplets does not synthesize Ser (S)?", "Which amino acid is synthesized for the nucleotide triplet sequence TGC?"],
+		"options": [
+			["TCC", "TCT", "AGA", "AGT"],
+			["Arg (R)", "Val (V)", "Cys (C)", "Trp (W)"]
+		],
+		"answer": ["AGA", "Cys (C)"],
+		"rationale": ["AGA synthesizes Arg (R)", "TGC synthesizes Cys (C)"],
+		"difficulty": ["hard", "hard"],
+		"assigned": "sajith"
+	}, {
+		"graph_path": "./images/18.png",
+		"graph_para": "A history of algal evolution. The timeline maps changes in atmospheric composition and global extinction events from the end of the Precambrian to the present. In total there were a total of 5 Mass Extinction events as indicated by the vertical arrows. The boxes at the bottom show the names of various geological periods.",
+		"questions": ["During how many events of Mass Extinction was the atmospheric concentration of CO2 greater than that of O2?", "The Jurassic geological period was immediately succeeded by which geological period?", "In which geological period was the atmospheric concentration of O2 the highest?"],
+		"options": [
+			["1", "2", "3", "4"],
+			["Triassic", "Cretaceous", "Permian", "Cambrian"],
+			["Permian", "Cambrian", "Jurassic", "Triassic"]
+		],
+		"answer": ["1", "Cretaceous", "Permian"],
+		"rationale": ["Only during first Mass Extinction was the atmospheric concentration of CO2 greater than that of O2", "Cretaceous follows Jurassic geological period", "O2 levels peaked during Permian geological period"],
+		"difficulty": ["moderate", "easy", "moderate"],
+		"assigned": "sajith"
+	}
+]
